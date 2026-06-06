@@ -1,7 +1,7 @@
 birthdays = {'Alice': 1990, 'Bob': 1985, 'Charlie': 1992}
 
 while True:
-    print('Enter a name (or "exit" to quit):')
+    print('Enter a name (or "" to quit):')
     name = input()
     if name == '':
         break
